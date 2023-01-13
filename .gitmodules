@@ -1,0 +1,3 @@
+[submodule "single_include/3rd_include/soci"]
+	path = single_include/3rd_include/soci
+	url = https://github.com/SOCI/soci.git
